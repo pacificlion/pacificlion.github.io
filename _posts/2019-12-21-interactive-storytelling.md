@@ -2,8 +2,8 @@
 published: true
 ---
 ---	
-layout: Interactive Visualization : Clustering Visualization by Naftali	
-title: You're up and running!	
+layout: post
+title: Interactive Visualization : Clustering Visualization by Naftali		
 ---	
 
 ## Option 1 – Good Visualization
