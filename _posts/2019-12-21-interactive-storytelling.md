@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### Option 1 – Good Visualization
+## Option 1 – Good Visualization
  [link to course](https://www.coursera.org/learn/datavisualization/)
 #### Background
 
