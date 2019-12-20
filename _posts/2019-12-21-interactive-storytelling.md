@@ -1,11 +1,6 @@
 ---
-published: true
+published: false
 ---
----	
-layout: post
-title: Interactive Visualization : Clustering Visualization by Naftali		
----	
-
 ## Option 1 – Good Visualization
  [link to course](https://www.coursera.org/learn/datavisualization/)
 #### Background
