@@ -1,17 +1,20 @@
-## Option 1 – Good Visualization
+---
+published: false
+---
+### Option 1 – Good Visualization
  [link to course](https://www.coursera.org/learn/datavisualization/)
-### Background
+#### Background
 
 
 Review the definition of data visualization and the differences between interactive visualization, presentation visualization, and online storytelling
 
-### Question
+#### Question
 
 What web page URL would you point people to as a good example of presentation visualization or interactive storytelling? Which is it and why is it a good example of this type? What about the web page impresses you the most? How does the web page help you understand the data and gain insight into what the data represents?
 
-### Option 1 : Interactive Visualization : Clustering Visualization by [Naftali](https://www.naftaliharris.com/)
+#### Option 1 : Interactive Visualization : Clustering Visualization by [Naftali](https://www.naftaliharris.com/)
 
-I found a [webpage](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) on Clustering data useful for interactive storytelling. I found a webpage on Clustering data useful for interactive storytelling. It explains how K Means Clustering algorithm is used for grouping data which are closer to each by distance in same groups. . It is an excellent example of interactive storytelling because the number of data points are pre-configured by the developer, but it allows user to choose how data points are arranged like randomly or in gaussian distribution.
+I found a [webpage](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) on Clustering data useful for interactive storytelling. It explains how K Means Clustering algorithm is used for grouping data which are closer to each by distance in same groups. . It is an excellent example of interactive storytelling because the number of data points are pre-configured by the developer, but it allows user to choose how data points are arranged like randomly or in gaussian distribution.
 
 I found the visualization very impressive because it helps to see the effect of different input parameters like number of groups, i.e. centroids you wish to make and see how the groups change with change in number of groups. It also showcases each data point in different colors along with the centroid for each group which acts as a representative for that group allowing nice visualization. The centroids can be randomly assigned by the user. The centroids change with each iteration as the distances of each point is computed and the data point closest to a centroid is assigned that group. The centroid is recalculated as an average of data point coordinates. This iterative process is shown on click of “Update Centroids” which gives the user the actual insights of how clustering the data works.
 
