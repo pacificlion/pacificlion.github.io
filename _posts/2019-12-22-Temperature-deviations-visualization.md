@@ -1,11 +1,9 @@
 ---
-published: false
----
----
 published: true
 layout: post
 title: Comparison of Temperature deviations over year
 ---
+
 ![Comparison of Temperature deviations over year](temperatureDeviations.png "Comparison of Temperature deviations over year")
 The horizontal axis represents the Year. The vertical axis shows temperature deviations. The  black color depicts global temperature, blue depicts temperature of Northern hemisphere and red for temperature of the Southern hemisphere. 
 
