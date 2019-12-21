@@ -3,7 +3,6 @@ published: true
 layout: post
 title: Interactive Visualization - Clustering Visualization by Naftali
 ---
-Interactive Visualization : Clustering Visualization by [Naftali](https://www.naftaliharris.com/)
 
 I found a [webpage](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) on Clustering data useful for interactive storytelling. It explains how K Means Clustering algorithm is used for grouping data which are closer to each by distance in same groups. . It is an excellent example of interactive storytelling because the number of data points are pre-configured by the developer, but it allows user to choose how data points are arranged like randomly or in gaussian distribution.
 
