@@ -4,7 +4,7 @@ layout: post
 title: Comparison of Temperature deviations over year
 ---
 
-![Comparison of Temperature deviations over year](temperatureDeviations.png "Comparison of Temperature deviations over year")
+![Comparison of Temperature deviations over year](https://raw.githubusercontent.com/pacificlion/pacificlion.github.io/master/images/temperatureDeviations.png "Comparison of Temperature deviations over year")
 The horizontal axis represents the Year. The vertical axis shows temperature deviations. The  black color depicts global temperature, blue depicts temperature of Northern hemisphere and red for temperature of the Southern hemisphere. 
 
 I used the dataset provided by [GISTEMP](http://data.giss.nasa.gov/gistemp/). Though I had to smoothen the curve to show continuity for which I used gaussian_filter1d and plot the data using matplotlib library in python.
