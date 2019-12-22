@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[My resume](https://www.slideshare.net/prashantsingh690/prashant-singh-resume-208928275)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[prashant.inbox@outlook.com](mailto:prashant.inbox@outlook.com)
