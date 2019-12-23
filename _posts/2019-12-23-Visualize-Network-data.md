@@ -1,6 +1,6 @@
 ---
-layout: post
 published: true
+layout: post
 title: Visualize Network Data
 ---
 
