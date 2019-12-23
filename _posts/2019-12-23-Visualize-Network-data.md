@@ -140,21 +140,11 @@ I think this example can be used for generating network data for good visualizat
 
 ### References
 
-1:
-```
-"@misc{snapnets,
-  author       = {Jure Leskovec and Andrej Krevl},
-  title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
-  howpublished = {\url{http://snap.stanford.edu/data}},
-  month        = jun,
-  year         = 2014
-}"
-```
-2: 
+1.
 >
 Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017.
 
-3: 
+2: 
 >
 http://jonathansoma.com/lede/algorithms-2017/classes/networks/networkx-graphs-from-source-target-dataframe/
 
