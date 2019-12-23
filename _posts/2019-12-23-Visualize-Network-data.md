@@ -141,14 +141,15 @@ I think this example can be used for generating network data for good visualizat
 ### References
 
 1:
-> @misc{snapnets,
+```
+"@misc{snapnets,
   author       = {Jure Leskovec and Andrej Krevl},
   title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
   howpublished = {\url{http://snap.stanford.edu/data}},
   month        = jun,
   year         = 2014
-}
-
+}"
+```
 2: 
 >
 Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017.
