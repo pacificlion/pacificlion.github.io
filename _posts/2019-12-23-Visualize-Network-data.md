@@ -89,7 +89,7 @@ nx.draw_networkx_labels(g, layout, labels=answerers_dict,font_color='white',font
 high_degree_questioners = [node for node in g.nodes() if node in df.DST.unique() and value_counts_dst[node] >3]
 nx.draw_networkx_nodes(g, layout, nodelist=high_degree_questioners, node_size=100, node_color='#fc8d62', alpha=0.6)
 
-# we do not axes as there is no need for them
+# we do not need axes as there is no need for them
 plt.axis('off')
 
 plt.title("Math Overflow Answers vs Questions")
@@ -140,13 +140,21 @@ I think this example can be used for generating network data for good visualizat
 
 
 ### References
-<a name="myfootnote1">1</a>: @misc{snapnets,
+
+<a name="myfootnote1">1</a>: 
+``` @misc{snapnets,
                     author       = {Jure Leskovec and Andrej Krevl},
                     title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
                     howpublished = {\url{http://snap.stanford.edu/data}},
                     month        = jun,
                     year         = 2014
                   }
-2: Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017.
-
-3: http://jonathansoma.com/lede/algorithms-2017/classes/networks/networkx-graphs-from-source-target-dataframe/
+```
+2: 
+```
+Ashwin Paranjape, Austin R. Benson, and Jure Leskovec. "Motifs in Temporal Networks." In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining, 2017.
+```
+3: 
+```
+http://jonathansoma.com/lede/algorithms-2017/classes/networks/networkx-graphs-from-source-target-dataframe/
+```
