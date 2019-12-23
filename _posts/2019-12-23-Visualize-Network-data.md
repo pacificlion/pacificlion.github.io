@@ -22,7 +22,6 @@ SRC: id of the source node (a user)
 TGT: id of the target node (a user)
 UNIXTS: Unix timestamp (seconds since the epoch)
 ```
-<sup>[1](#myfootnote1)</sup>
 
 ### Import dependencies
 
@@ -141,7 +140,7 @@ I think this example can be used for generating network data for good visualizat
 
 ### References
 
-<a name="myfootnote1">1</a>: 
+1:
 ``` @misc{snapnets,
                     author       = {Jure Leskovec and Andrej Krevl},
                     title        = {{SNAP Datasets}: {Stanford} Large Network Dataset Collection},
