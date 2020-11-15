@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Review of Don Quixote
 ---
-![Don Quixote]({{site.baseurl}}/_posts/donQuixote.jpg)
+![Don Quixote]({{site.baseurl}}/images/donQuixote.jpg)
 Is being mad and following an interesting path better than living in a boring reality?
 
 Don Quixote seems at first glance only a parody of adventure books. But it is full of great satire, comedy, and wisdom. Don Quixote a person who has turned mad after reading many fictional books on knight-errantry assumes that knight-errantry is real. He convinces his neighbor Sancho Panza, a simple farmer to be a squire and go to adventures like a knight which will help Sancho become a governer one day as a reward of their adventures.
