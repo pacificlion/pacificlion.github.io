@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Review of the Science of Interstellar
 ---
 ![interstellar.jpg]({{site.baseurl}}/images/interstellar.jpg)
 
