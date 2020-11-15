@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Review of Don Quixote
 ---
 ![Don Quixote]({{site.baseurl}}/_posts/donQuixote.jpg)
 Is being mad and following an interesting path better than living in a boring reality?
