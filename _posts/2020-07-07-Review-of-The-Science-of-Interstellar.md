@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Review of The Science of Interstellar
-
 ![interstellar.jpg]({{site.baseurl}}/images/interstellar.jpg)
 
 I highly recommend reading this book shortly after watching the interstellar movie.
