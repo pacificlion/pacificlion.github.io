@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Review of Don Quixote
-
 ![Don Quixote]({{site.baseurl}}/_posts/donQuixote.jpg)
 Is being mad and following an interesting path better than living in a boring reality?
 
@@ -33,4 +31,3 @@ I as a reader am left with numerous questions.
 Would it have been better if he would have continued in his path to be the knight errant happy rather than die as a sane old man? Is society wise in making fun of a person who is mad?
 
 My rating: 4/5
-
