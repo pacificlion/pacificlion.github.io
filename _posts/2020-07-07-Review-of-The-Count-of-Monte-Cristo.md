@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Review of The Count of Monte Cristo
 ![monteCristo.jpg]({{site.baseurl}}/images/monteCristo.jpg)
 
 Hope and wait!!
