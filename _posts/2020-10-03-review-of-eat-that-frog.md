@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Review of Eat that Frog!
 ---
 ![eat-that-frog.jpg]({{site.baseurl}}/images/eat-that-frog.jpg)
 
