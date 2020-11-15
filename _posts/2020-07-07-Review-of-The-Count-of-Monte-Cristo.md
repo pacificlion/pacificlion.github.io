@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Review of the Count of Monte Cristo
 ---
 ![monteCristo.jpg]({{site.baseurl}}/images/monteCristo.jpg)
 
