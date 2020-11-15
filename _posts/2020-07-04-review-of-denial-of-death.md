@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Denial of Death
 ![denialOfDeath.jpg]({{site.baseurl}}/images/denialOfDeath.jpg)
