@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Review of denial of death
 ---
 ![denialOfDeath.jpg]({{site.baseurl}}/images/denialOfDeath.jpg)
 
