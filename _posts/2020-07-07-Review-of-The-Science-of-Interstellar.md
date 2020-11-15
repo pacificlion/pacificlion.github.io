@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Review of The Science of Interstellar
 
