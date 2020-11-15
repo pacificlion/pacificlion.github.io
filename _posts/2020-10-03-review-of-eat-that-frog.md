@@ -35,3 +35,5 @@ The summary of the 21 ways to Eat That Frog! is as follows:
 21. Single handle every task - work without stopping until the job is 100 % complete
 
 I would like to reiterate that though the book is short (less than 150 pages) and up to the point. It will only be useful if you follow up on each exercise and do step 1 every 6 months to see if you still have the same goal in sights.
+
+My rating: 4/5
