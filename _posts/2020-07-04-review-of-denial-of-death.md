@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Denial of Death
 ![denialOfDeath.jpg]({{site.baseurl}}/images/denialOfDeath.jpg)
 
 Becker is good at explaining evolution of psychoanalysis and keep his point of view. The book touches upon dualism of humanity: physical and spiritual. 
