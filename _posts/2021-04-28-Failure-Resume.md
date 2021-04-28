@@ -10,6 +10,9 @@ This concept originated in [academia](https://www.nytimes.com/2019/02/03/smarter
 
 I’ve organized my setbacks by year (starting with 2017), and what constitutes a “failure” (or fail) here is based solely on my own judgement.
 
+## 2021
+
+- Failed after 32 days in first iteration of [100 Days ML Challenge](https://www.prashantsingh.co.in/100DaysMLChallenge/README-v1).
 
 ## 2020
 
