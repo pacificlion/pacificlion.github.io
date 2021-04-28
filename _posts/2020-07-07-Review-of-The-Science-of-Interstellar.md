@@ -3,11 +3,13 @@ published: true
 layout: post
 title: Review of the Science of Interstellar
 ---
-![interstellar.jpg]({{site.baseurl}}/images/interstellar.jpg)
+
 
 I highly recommend reading this book shortly after watching the interstellar movie.
 
 The author ensures explaining the topic keeping both technical and non-technical audiences in mind. This book makes you pause in between and wonder with awe how great laws of nature are and we as readers are on a journey in this book to understand how Cooper (the movie protagonist) must have acted upon these laws while maneuvering Endurance (space ship) through the black hole, Gargantua.
+
+![interstellar.jpg]({{site.baseurl}}/images/interstellar.jpg)
 
 The book starts with a chapter detailing how the idea of the movie came into fruition and roadblocks the movie faced before getting directed by Christopher Nolan. A science-fiction movie adhering to principles of scientific laws and whenever there has to be a speculation, it should be based on the expertise of current scientists in that area.
 
