@@ -27,8 +27,7 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 
 ## 2017
 - Failed Amazon first coding round
-- Paper got rejected in Recent Trends in Electronics, Information & Communication Technology (RTEICT 2017)
-
+- Paper on  [Survey on Contraction Hierarchies Algorithm](https://github.com/pacificlion/pacificlion.github.io/blob/master/papers/SurveyOnContractionHierarchies.pdf) got rejected in RTEICT 2017
 
 
 
