@@ -27,6 +27,7 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 
 ## 2017
 - Failed Amazon first coding round
+- Paper got rejected in Recent Trends in Electronics, Information & Communication Technology (RTEICT 2017)
 
 
 
