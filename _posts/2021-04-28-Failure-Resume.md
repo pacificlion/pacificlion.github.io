@@ -23,7 +23,7 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
   - Lacked essential coding skills 
 
 ## 2017
-- Failed Juspay coding round
+- Failed Amazon first coding round
 
 
 
