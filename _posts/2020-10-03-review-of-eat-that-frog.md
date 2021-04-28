@@ -3,9 +3,10 @@ published: true
 layout: post
 title: Review of Eat that Frog!
 ---
-![eat-that-frog.jpg]({{site.baseurl}}/images/eat-that-frog.jpg)
 
 Brian Tracy delivers what he says in the title - 21 ways to stop procrastinating. I read it after one of our company executives praised it for its impact on his work. I am a software developer and I found it very useful to gain awareness of how to increase productivity. It will certainly be useful for working professional who has a lot of distractions like impending deadlines for low-value tasks and constant work messages and emails.
+
+![eat-that-frog.jpg]({{site.baseurl}}/images/eat-that-frog.jpg)
 
 In a nutshell - Do the most important task (Frog) first thing and do not see other tasks(tadpoles)
 
