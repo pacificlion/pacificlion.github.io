@@ -3,10 +3,11 @@ published: true
 layout: post
 title: Review of the Count of Monte Cristo
 ---
-![monteCristo.jpg]({{site.baseurl}}/images/monteCristo.jpg)
 
 Hope and wait!!
 A nineteen-year-old sailor, Edmond Dantes in Marseille, France on the day of his wedding has been wrongfully convicted of treason and is thrown into prison without any date to release. He finds himself hope to escape the prison and exact revenge on people who have caused him this ordeal. In the prison, he encounters an old priest Abbe Faria whom he learns of a treasure. He persists and one day after fourteen years is able to escape the prison and finds the treasure.
+
+![monteCristo.jpg]({{site.baseurl}}/images/monteCristo.jpg)
 
 After escaping prison, he finds the treasure. He learns that his father has died of starvation and poverty.
 
