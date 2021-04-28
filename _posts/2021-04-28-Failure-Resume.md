@@ -15,6 +15,8 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 
 - Got reject from Georgia Tech, UCSD, UMass for MS in CS program.
 - Provisonal patent was approved in 2019 by SAP, but did not materialise as patent in 2020.
+- Rejected from SAP innvent program (Entrepreneur program)
+    - Not enough market research for KisanMitra project
 
 ## 2019
 - Failed SAP Academy of Engineering exam twice. 
