@@ -26,6 +26,9 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 - Failed SAP Academy of Engineering exam twice. 
   - Lacked essential coding skills 
 
+## 2018
+- Did not think long term plans. Did not apply for data science roles outside SAP.
+- 
 ## 2017
 - Failed Amazon first coding round
 - [Paper](https://github.com/pacificlion/pacificlion.github.io/blob/master/papers/SurveyOnContractionHierarchies.pdf) got rejected for IEEE conference RTEICT-2017
