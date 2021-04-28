@@ -28,6 +28,7 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 
 ## 2018
 - Did not think long term plans. Did not apply for data science roles outside SAP.
+- Did not attempt for Spanish A1 certificate after passing basic Spanish course at Indian Institute of Foreign Languages, Bangalore
 
 
 ## 2017
