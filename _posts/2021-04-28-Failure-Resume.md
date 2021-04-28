@@ -25,6 +25,8 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 ## 2019
 - Failed SAP Academy of Engineering exam twice. 
   - Lacked essential coding skills 
+- Rejected from SAP innvent program (Entrepreneur program)
+  - Revenue model not clear for Road Quality Analyser after completing working prototype.
 
 ## 2018
 - Did not think long term plans. Did not apply for data science roles outside SAP.
