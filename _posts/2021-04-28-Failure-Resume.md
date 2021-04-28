@@ -23,8 +23,7 @@ I’ve organized my setbacks by year (starting with 2017), and what constitutes 
 - Failed [Goodreads Reading challenge](https://www.goodreads.com/user_challenges/20103966) (read 17/20)
 
 ## 2019
-- Failed SAP Academy of Engineering exam twice. 
-  - Lacked essential coding skills 
+- Failed SAP Academy of Engineering exam twice.
 - Rejected from SAP innvent program (Entrepreneur program)
   - Revenue model not clear for Road Quality Analyser after completing working prototype.
 
