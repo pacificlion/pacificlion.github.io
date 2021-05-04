@@ -13,4 +13,4 @@ I started with challenges
 | 3 | [GoodReads Yearly challenge 2021](https://www.goodreads.com/user_challenges/26973825)|01 Jan 2021| Ongoing. 40 Book Challenge. Check [Status](https://www.goodreads.com/user_challenges/26973825)|
 | 4 | [100 Days ML Challenge](https://www.prashantsingh.co.in/100DaysMLChallenge/README-v1)|12 Feb 2021| Failed after 32 days|
 | 5 | [100 Days ML Challenge](https://www.prashantsingh.co.in/100DaysMLChallenge/)|27 Apr 2021|Ongoing. Check [Status](https://www.prashantsingh.co.in/100DaysMLChallenge/) |
-| 6 | [100 Days Health Challenge](https://www.prashantsingh.co.in/100DaysHealthChallenge/)|27 Apr 2021|Ongoing. Check [Status](https://www.prashantsingh.co.in/100DaysHealthChallenge)|
+| 6 | [100 Days Health Challenge](https://www.prashantsingh.co.in/100DaysHealthChallenge/)|26 Apr 2021|Ongoing. Check [Status](https://www.prashantsingh.co.in/100DaysHealthChallenge)|
