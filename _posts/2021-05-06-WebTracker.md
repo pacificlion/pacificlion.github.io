@@ -8,6 +8,6 @@ I am using web traking to see how much time I am spending on web
 
 I started with challenges
 
-| #| Name | Start Date| Comment|
+| #| Start Date | screenshot| Comment|
 | :-------------: | :---------- | :-----------: | :-----------: |
-| 1 | ![GoodReads Yearly challenge 2019](../images/donQuixote.jpg)|06 May 2021| Passed. Read 21 of 10 books.|
+| 1 | 06 May 2021|![GoodReads Yearly challenge 2019](../images/webtime-tracker-screenshot-2021-05-06-11-51-21.png)| Youtube.|
